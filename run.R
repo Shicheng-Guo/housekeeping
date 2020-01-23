@@ -9,4 +9,4 @@ source("https://raw.githubusercontent.com/Shicheng-Guo/GscRbasement/master/Panca
 source("https://raw.githubusercontent.com/Shicheng-Guo/GscRbasement/master/pancancermetaOsHr.R")
 pancancermetadge(symbol,"housekeeping")
 pancancermetaOsHr(symbol,"housekeeping")
-
+OROSmerge("housekeep")
